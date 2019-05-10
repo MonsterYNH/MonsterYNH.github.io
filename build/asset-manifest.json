@@ -1,0 +1,16 @@
+{
+  "main.css": "./static/css/main.dea9a563.chunk.css",
+  "main.js": "./static/js/main.36196281.chunk.js",
+  "main.js.map": "./static/js/main.36196281.chunk.js.map",
+  "runtime~main.js": "./static/js/runtime~main.9eb600ee.js",
+  "runtime~main.js.map": "./static/js/runtime~main.9eb600ee.js.map",
+  "static/js/2.c2b53b51.chunk.js": "./static/js/2.c2b53b51.chunk.js",
+  "static/js/2.c2b53b51.chunk.js.map": "./static/js/2.c2b53b51.chunk.js.map",
+  "index.html": "./index.html",
+  "precache-manifest.5c91b9e86330e156ca6d59997bcb1d78.js": "./precache-manifest.5c91b9e86330e156ca6d59997bcb1d78.js",
+  "service-worker.js": "./service-worker.js",
+  "static/css/main.dea9a563.chunk.css.map": "./static/css/main.dea9a563.chunk.css.map",
+  "static/media/monsterlogo.png": "./static/media/monsterlogo.6e99af67.png",
+  "static/media/qq.jpg": "./static/media/qq.8340ff3f.jpg",
+  "static/media/wechat.jpg": "./static/media/wechat.16f3d03f.jpg"
+}
